@@ -1,4 +1,5 @@
-# Tipología y ciclo de vida de los datos. Práctica 1: Web scraping
+# Tipología y ciclo de vida de los datos. 
+# Práctica 1: Web scraping
 
 ## Miembros del equipo
 La actividad ha sido realizada de manera individual por Francisco Javier Fortea.
